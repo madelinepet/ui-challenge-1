@@ -14,6 +14,10 @@ VS Code, HTML5, CSS3, live-server.
 
 ## Change Log
 04-16-2018 9:15am - Application now has scaffolding.
+04-16-2018 9:43am - Application now has divs that align as asked.
+04-16-2018 10am - Application now has a media query that manages screen size.
+
+
 
 
 ## Credits and Collaborations

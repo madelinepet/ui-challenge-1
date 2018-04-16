@@ -1,0 +1,16 @@
+div{
+  border:1px solid black;
+  background: lightgrey;
+  display: block;
+  width: 480px;
+  height: 180px;
+  text-align: center;
+}
+
+section{
+display: flex;
+}
+footer{
+border: 1px solid black;
+background: lightgrey;
+}
