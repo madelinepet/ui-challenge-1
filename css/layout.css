@@ -1,0 +1,17 @@
+div{
+  border:1px solid black;
+  display: block;
+  text-align: center;
+  margin: 0 auto;
+}
+p{
+  position: relative;
+  top: 35%;
+}
+#footer{
+border: 1px solid black;
+}
+#a > p{
+  position: relative;
+  top: 10%;
+}
